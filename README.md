@@ -5,7 +5,7 @@ Demonstration of creating an app with React, using specific components, extracti
 
 ## User Story
 As a gamer who wants to play a simple game with a friend while on the go,
-I want to be able to play Tic Tac Toe with an opponents and keep track of moves and scores,
+I want to be able to play Tic Tac Toe with an opponent and keep track of my moves,
 So that I can identify who is the winner at the end of the round.
 
 ## Available Scripts
