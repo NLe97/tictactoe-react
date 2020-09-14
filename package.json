@@ -2,7 +2,7 @@
   "name": "tic",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://NLe97.github.io/tictactoe-react/tree/master/public",
+  "homepage": "http://NLe97.github.io/tictactoe-react/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
