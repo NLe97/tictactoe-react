@@ -1,5 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Tic Tac Toe React
+Demonstration of creating an app with React, using specific components, extracting and composing components, managing state in components, lifting state up. All within a Tic Tac Toe Game. 
+
+## User Story
+As a gamer who wants to play a simple game with a friend while on the go,
+I want to be able to play Tic Tac Toe with an opponents and keep track of moves and scores,
+So that I can identify who is the winner at the end of the round.
+
 ## Available Scripts
 
 In the project directory, you can run:
